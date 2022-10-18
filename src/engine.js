@@ -71,7 +71,7 @@ function GAMES202Main() {
 
 
 	function createGUI() {
-		const gui = new dat.gui.GUI();
+		// const gui = new dat.gui.GUI();
 		// const panelModel = gui.addFolder('Model properties');
 		// panelModelTrans.add(GUIParams, 'x').name('X');
 		// panelModel.open();
