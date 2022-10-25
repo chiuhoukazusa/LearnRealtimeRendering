@@ -64,13 +64,24 @@ title {
 
 .trans {
     position: absolute;
-    top: 700px;
+    top: 70%;
     left: 10%;
 	width: 80%;
 	height: 15%;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.5);
 }
+
+.transM {
+    position: absolute;
+    top: 70%;
+    left: 5%;
+	right: 5%;
+	height: 15%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
 
 h1 {
 	height: 95px;
